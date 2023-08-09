@@ -13,5 +13,4 @@ const dbConnect = async () => {
   }
 };
 
-// export { dbConnect };
 export default dbConnect;
